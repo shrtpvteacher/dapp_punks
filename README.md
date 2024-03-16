@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+A Hardhat React NFT Collectible Project Build While In Dapp University Mentorship Program
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a NFT use case, using Inheritance from Open Zeppelin Contracts, inside of a Hardhat/React.js framework.
 
 Try running some of the following tasks:
 
